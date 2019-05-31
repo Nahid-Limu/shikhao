@@ -1,0 +1,6 @@
+http://shikhao.net
+
+email: admin@email.com
+password: admin
+
+This is the pre alfa version of our admin panel (Shikhao). Please check all the options carefully to understand the software and its functionalities properly. There have been given some dummy datas, in order to understand the software better. If you find any problem take a note and mention me.
